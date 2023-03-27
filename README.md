@@ -10,8 +10,7 @@
 - Farbmetrik (DeltaE warum und woher?) 
 ## Arbeiten mit Farbe in RGB & CMYK (Nr. 041) 
 - Farbmanagement (was sind Farbprofile und wofür braucht man sowas?)
-
-# Blinden Fleck finden 
+## Blinden Fleck finden (Blinder Fleck.odt)
 
 Ich komme aus der Drucktechnik, deswegen bin ich da ein wenig vorbelastet und laufe evtl. auch mal mit ein paar Scheuklappen durch meine Unterlagen.
 Falls ihr was gebrauchen könnt, schön, wenn nicht, dann nicht
