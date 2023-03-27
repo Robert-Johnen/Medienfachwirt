@@ -1,15 +1,16 @@
-# Informationen und Präsentationen zumThema Farbmetrik, Densitometrie und Farbmanagement
+# Informationen und Präsentationen zum Thema Farbe, Farbmetrik, Densitometrie und Farbmanagement
 
-Was ist Farbe  
+## Was ist Farbe  
 - subtraktive & additive Farbmischung 
 - Metamerie --> Vieldeutiglkeit von Farbe 
 - Aufbau (Bestandteile von Köperfarben)
 - Rheologie (physi[kali]sche Eigenschaften und Verhalten von Körperfarben) 
-Messen von Farbe 
+## Messen von Farbe 
 - Densitometrie (Dichtemessung von Farbe) 
 - Farbmetrik (DeltaE warum und woher?) 
-Arbeiten mit Farbe in RGB & CMYK 
+## Arbeiten mit Farbe in RGB & CMYK 
 - Farbmanagement (was sind Farbprofile und wofür braucht man sowas?)
+
 Ich komme aus der Drucktechnik, deswegen bin ich da ein wenig vorbelastet und laufe evtl. auch mal mit ein paar Scheuklappen durch meine Unterlagen.
 Falls ihr was gebrauchen könnt, schön, wenn nicht, dann nicht
 
